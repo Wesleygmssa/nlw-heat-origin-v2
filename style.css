@@ -34,7 +34,7 @@ main {
   width: 358px;
   height: 540px;
 
-  transform-style: preserve-3d;
+  transform-style: preserve-3d; /*Efeito 3D  */
   transform: translateZ(0);
 }
 
