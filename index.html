@@ -92,6 +92,8 @@
     }
 
     function changeSocialMediaLinks() {
+      // document.getElementById('userName') // Forma mais extensa de fazer
+      // userName.textContent = 'Wesley' // Dessa forma só funciona com ID pegando automaticamente
       for (let li of socialLinks.children) {
         const social = li.getAttribute('class');
 
