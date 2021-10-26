@@ -1,0 +1,11 @@
+{
+  "name": "nlw-heat-origin-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Wesleygmssa/nlw-heat-origin-v2.git",
+  "author": "Wesley Guerra <wesley.moreira@compasso.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  }
+}
